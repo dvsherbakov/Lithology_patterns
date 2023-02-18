@@ -1,0 +1,16 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern id="Clay"
+            x="0" y="0" width="32" height="32"
+            patternUnits="userSpaceOnUse">
+           
+            <path stroke="black" d="M4,4 H12 M20,4 H28 M6,8 H14 M22,8 H30"/>
+            <path stroke="black" d="M2,12 H10 M16,12 H24 M2,16 H10 M16,16 H24"/>
+            <path stroke="black" d="M8,20 H16 M24,20 H28 M4,24 H12 M18,24 H26"/>
+            <path stroke="black" d="M5,28 H13 M21,20 H29 M4,31 H12 M18,31 H26"/>
+            
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="200" height="200"
+        style="stroke: #000000; fill: url(#Clay);" />
+</svg>

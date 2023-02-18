@@ -1,0 +1,11 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern id="Anhydrite"
+            x="0" y="0" width="16" height="17"
+            patternUnits="userSpaceOnUse">
+            <path d="M1 6 L 4 2 7 6 4 5 Z M9 14 L12 10 15 14 12 13Z" stroke-width=".5" stroke="black" fill="none"/>
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="200" height="200"
+        style="stroke: #000000; fill: url(#Anhydrite);" />
+</svg>
