@@ -1,6 +1,6 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <pattern id="SandStone"
+        <pattern id="Sand"
             x="0" y="0" width="9" height="9"
             patternUnits="userSpaceOnUse">
             <rect x="0" y="0" width="9" height="9" stroke="yellow" fill="yellow" />
@@ -8,5 +8,5 @@
         </pattern>
     </defs>
     <rect x="0" y="0" width="200" height="200"
-        style="stroke: #000000; fill: url(#SandStone);" />
+        style="stroke: #000000; fill: url(#Sand);" />
 </svg>
