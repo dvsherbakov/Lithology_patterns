@@ -1,0 +1,16 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern id="ShaleCalc" x="0" y="0" width="48" height="16" patternUnits="userSpaceOnUse">           
+            <rect x="0" y="0" width="48" height="16" fill="#ccc" />
+            <path stroke="black" d="m 0,7 12,0 M 2,7 2,2" />
+            <path stroke="black" d="M 2,15 22,15" />
+            <path stroke="black" d="M 15,7 31,7" />
+            <path stroke="black" d="m 35,7 13,0 M 40,7 40,2" />
+            <path stroke="black" d="M 24,7 24,2" />
+            <path stroke="black" d="m 26,15 20,0" />
+            <path stroke="black" d="m 33,15 0,-5" />
+            <path stroke="black" d="m 14,15 0,-5" />
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="200" height="200" style="stroke: #000000; fill: url(#ShaleCalc);" />
+</svg>

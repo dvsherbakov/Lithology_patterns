@@ -1,0 +1,10 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern id="Chert" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+            <rect width="32" height="32" fill="#FCFCFC"/>
+            <path stroke="black" stroke-width=".5" fill="none" d="M 2,27 2,31 14,31 14,27 8,23Z" /> 
+            <path stroke="black" stroke-width=".5" fill="none" d="M 2,27 2,31 14,31 14,27 8,23Z" transform="translate(16,-16)"/> 
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="200" height="200" style="stroke: #000000; fill: url(#Chert);" />
+</svg>

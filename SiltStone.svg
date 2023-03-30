@@ -1,8 +1,8 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <pattern id="Silt"
+        <pattern id="SiltStone"
             x="0" y="0" width="24" height="14" patternUnits="userSpaceOnUse">
-            <path d="M2 6 H 10 M14 12 H 22" stroke-width="1" stroke="black" fill="none"/>
+            <rect width="24" height="14" fill="#fdf2cc"/>
             <circle cx="14" cy="6" r=".5" />
             <circle cx="18" cy="6" r=".5" />
             <circle cx="22" cy="6" r=".5" />
@@ -12,5 +12,5 @@
         </pattern>
     </defs>
     <rect x="0" y="0" width="200" height="200"
-        style="stroke: #000000; fill: url(#Silt);" />
+        style="stroke: #000000; fill: url(#SiltStone);" />
 </svg>

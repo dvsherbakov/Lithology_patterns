@@ -1,0 +1,13 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <pattern id="Conglomerate"
+            x="0" y="0" width="13" height="9" patternUnits="userSpaceOnUse">
+            <circle cx="3" cy="3" r="1.5" fill="#fafac1" stroke-width="0.3" stroke="#1f1f1f"/>
+            <circle cx="6" cy="7" r="1.5" fill="#eccbec" stroke-width="0.3" stroke="#1f1f1f"/>
+            <circle cx="11" cy="5" r="1.5" fill="#c3f6f8" stroke-width="0.3" stroke="#1f1f1f"/>
+            <path stroke="black" d="M1,2 L4.5,4 M4,7 L8,7 M11,3 L11,7" stroke-width="0.3"/>
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="200" height="200"
+        style="stroke: #000000; fill: url(#Conglomerate);" />
+</svg>

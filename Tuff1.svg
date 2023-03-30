@@ -3,6 +3,7 @@
         <pattern id="Tuff"
             x="0" y="0" width="32" height="32"
             patternUnits="userSpaceOnUse">
+            <rect width="32" height="32" fill="#f5ebf4"/>
             <path d=" M 3 10 A 4 4 0 1 1 9 10" stroke="black" fill="none"/>
             <path d=" M 3 10 A 4 4 0 1 1 9 10" stroke="black" fill="none"  transform="translate(16,2) rotate(77 6 8)"/>
             <path d=" M 3 10 A 4 4 0 1 1 9 10" stroke="black" fill="none"  transform="translate(2,10) rotate(160 7 9)"/>

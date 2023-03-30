@@ -1,10 +1,15 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <pattern id="Sand"
-            x="0" y="0" width="9" height="9"
+            x="0" y="0" width="12" height="12"
             patternUnits="userSpaceOnUse">
-            <rect x="0" y="0" width="9" height="9" stroke="yellow" fill="yellow" />
-            <circle cx="3" cy="3" r="2" fill="black" />
+            <rect x="0" y="0" width="12" height="12" stroke="yellow" fill="yellow" />
+            <circle cx="3" cy="3" r=".5" fill="black" />
+            <circle cx="7" cy="8" r=".5" fill="black" />
+            <circle cx="6" cy="5" r=".8" fill="black" />
+            <circle cx="4" cy="10" r=".4" fill="black" />
+            <circle cx="11" cy="3" r=".6" fill="black" />
+            <circle cx="9" cy="7" r=".3" fill="black" />
         </pattern>
     </defs>
     <rect x="0" y="0" width="200" height="200"
